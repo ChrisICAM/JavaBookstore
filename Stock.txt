@@ -1,0 +1,15 @@
+24891465, Paperback, Miraculous Ladybug, French, Biography, 14-03-2011, 44.5, 7, 184, USED
+12345678, eBook, Bleach, English, Politics, 21-12-2013, 41.99, 2, 444, MOBI
+81423981, Paperback, Cells at Work!, English, Medicine, 10-10-2020, 30.43, 4, 125, USED
+73020155, eBook, Vongola Mafioso, English, Politics, 05-09-2013, 29.99, 2, 294, AZW3
+52185604, AudioBook, Into the SpiderVerse, English, ComputerScience, 21-09-2015, 29.98, 15, 7.1, WMA
+75724801, eBook, Project Planning, French, Politics, 23-12-2011, 25.1, 10, 146, EPUB
+74797533, AudioBook, The Kaiba Corp Methodology, English, Politics, 31-07-2002, 25.0, 1, 8.5, MP3
+81913799, eBook, Death Note, English, Politics, 21-01-1993, 23.99, 11, 98, PDF
+77017228, Paperback, Promised Neverland, French, Biography, 29-02-2012, 21.33, 6, 314, NEW
+91783672, AudioBook, Death Note, English, Politics, 21-01-1993, 19.99, 8, 3.0, MP3
+42371638, AudioBook, The Presence of Man, French, Biography, 30-05-2019, 18.49, 6, 9.2, AAC
+41813602, Paperback, Solid Vision Tech, English, ComputerScience, 06-04-2014, 14.99, 3, 281, NEW
+71782302, Paperback, Hyper Activation, English, Medicine, 25-11-2009, 13.45, 5, 111, NEW
+39769300, eBook, Solid Vision Tech, English, ComputerScience, 06-04-2014, 12.99, 2, 279, MOBI
+23456789, Paperback, Piece, English, Politics, 04-07-2012, 11.11, 1, 23, NEW

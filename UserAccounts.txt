@@ -1,0 +1,7 @@
+101, user1, Moneke, 26, IG1 2XG, Essex, admin
+102, user2, Hooper, 316, LE11 3JU, Loughborough, customer
+103, user3, Elric, 53, NG16 2ED, Newthorpe, customer
+104, user4, Sawada, 4, ST3 5DU, Stoke-On-Trent, admin
+105, user5, Donaldson, 94, SE28 0EY, London, customer
+106, user6, Uchiha, 134, L23 2UT, Liverpool, customer
+107, user7, Appiah, 510, B36 8AH, Birmingham, customer
